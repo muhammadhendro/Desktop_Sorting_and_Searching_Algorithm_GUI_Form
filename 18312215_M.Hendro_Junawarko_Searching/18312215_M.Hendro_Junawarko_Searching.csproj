@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42911EDD-A5A2-4A83-AB2C-199AD4E2D49A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M.Hendro_Junawarko</RootNamespace>
+    <AssemblyName>18312215_M.Hendro_Junawarko_Searching</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="binarySearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="binarySearch.Designer.cs">
+      <DependentUpon>binarySearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jumpSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jumpSearch.Designer.cs">
+      <DependentUpon>jumpSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="linearSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="linearSearch.Designer.cs">
+      <DependentUpon>linearSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectionSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectionSort.Designer.cs">
+      <DependentUpon>selectionSort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bubbleSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bubbleSort.Designer.cs">
+      <DependentUpon>bubbleSort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="quickSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quickSort.Designer.cs">
+      <DependentUpon>quickSort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertionSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertionSort.Designer.cs">
+      <DependentUpon>insertionSort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mergeSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mergeSort.Designer.cs">
+      <DependentUpon>mergeSort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="binarySearch.resx">
+      <DependentUpon>binarySearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jumpSearch.resx">
+      <DependentUpon>jumpSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="linearSearch.resx">
+      <DependentUpon>linearSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectionSort.resx">
+      <DependentUpon>selectionSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bubbleSort.resx">
+      <DependentUpon>bubbleSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quickSort.resx">
+      <DependentUpon>quickSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertionSort.resx">
+      <DependentUpon>insertionSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mergeSort.resx">
+      <DependentUpon>mergeSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

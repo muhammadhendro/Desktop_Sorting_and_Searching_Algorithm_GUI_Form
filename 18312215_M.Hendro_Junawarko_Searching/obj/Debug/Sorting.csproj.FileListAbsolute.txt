@@ -1,0 +1,85 @@
+D:\Tugas c#\Sorting\Sorting\bin\Debug\Sorting.exe.config
+D:\Tugas c#\Sorting\Sorting\bin\Debug\Sorting.exe
+D:\Tugas c#\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.frm_ss.resources
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.frm_bs.resources
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.frm_qs.resources
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.exe
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.pdb
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.frm_about.resources
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.frm_is.resources
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.frm_ms.resources
+D:\Tugas c#\Sorting\Sorting\obj\Debug\Sorting.menu.resources
+I:\Sorting\Sorting\bin\Debug\Sorting.exe.config
+I:\Sorting\Sorting\obj\Debug\Sorting.exe
+I:\Sorting\Sorting\obj\Debug\Sorting.pdb
+F:\Sorting\Sorting\bin\Debug\Sorting.exe.config
+F:\Sorting\Sorting\obj\Debug\Sorting.exe
+F:\Sorting\Sorting\obj\Debug\Sorting.pdb
+G:\Sorting\Sorting\bin\Debug\Sorting.exe.config
+G:\Sorting\Sorting\obj\Debug\Sorting.exe
+G:\Sorting\Sorting\obj\Debug\Sorting.pdb
+G:\Sorting\Sorting\bin\Debug\Sorting.exe
+G:\Sorting\Sorting\bin\Debug\Sorting.pdb
+G:\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+G:\Sorting\Sorting\obj\Debug\Sorting.menu.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.frm_ss.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.frm_bs.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.frm_qs.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.frm_about.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.frm_is.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.frm_ms.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+G:\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.exe
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Public\Videos\Sorting\bin\Debug\Sorting.exe
+C:\Users\Public\Videos\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.menu.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.frm_ss.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.frm_bs.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.frm_qs.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.frm_about.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.frm_is.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.frm_ms.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Public\Videos\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+G:\program\Sorting\bin\Debug\Sorting.exe.config
+G:\program\Sorting\obj\Debug\Sorting.exe
+G:\program\Sorting\obj\Debug\Sorting.pdb
+G:\program\Sorting\bin\Debug\Sorting.exe
+G:\program\Sorting\bin\Debug\Sorting.pdb
+G:\program\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+G:\program\Sorting\obj\Debug\Sorting.menu.resources
+G:\program\Sorting\obj\Debug\Sorting.frm_ss.resources
+G:\program\Sorting\obj\Debug\Sorting.frm_bs.resources
+G:\program\Sorting\obj\Debug\Sorting.frm_qs.resources
+G:\program\Sorting\obj\Debug\Sorting.frm_about.resources
+G:\program\Sorting\obj\Debug\Sorting.frm_is.resources
+G:\program\Sorting\obj\Debug\Sorting.frm_ms.resources
+G:\program\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+G:\program\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+G:\program\Sorting\obj\Debug\Sorting.frm_linear.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.exe
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.pdb
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\bin\Debug\Sorting.exe
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\bin\Debug\Sorting.pdb
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_linear.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.menu.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_ss.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_bs.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_qs.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_about.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_is.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_ms.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_binary.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\Sorting\obj\Debug\Sorting.frm_jump.resources

@@ -1,0 +1,36 @@
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\bin\Debug\18312215_M.Hendro_Junawarko_Searching.exe.config
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\bin\Debug\18312215_M.Hendro_Junawarko_Searching.exe
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\bin\Debug\18312215_M.Hendro_Junawarko_Searching.pdb
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.csprojResolveAssemblyReference.cache
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_binary.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_jump.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_linear.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.menu.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_ss.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_bs.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_qs.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_about.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_is.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_ms.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\M.Hendro_Junawarko.Properties.Resources.resources
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.csproj.GenerateResource.Cache
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.exe
+C:\Users\flintz\Documents\Visual Studio 2012\Projects\program\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.pdb
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\bin\Debug\18312215_M.Hendro_Junawarko_Searching.exe.config
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.exe
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.pdb
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\bin\Debug\18312215_M.Hendro_Junawarko_Searching.exe
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\bin\Debug\18312215_M.Hendro_Junawarko_Searching.pdb
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.csprojResolveAssemblyReference.cache
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_binary.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_jump.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_linear.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.menu.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_ss.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_bs.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_qs.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_about.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_is.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\Sorting.frm_ms.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\M.Hendro_Junawarko.Properties.Resources.resources
+C:\Users\flintz\Downloads\Compressed\18312215_M.Hendro_Junawarko_Searching\18312215_M.Hendro_Junawarko_Searching\obj\Debug\18312215_M.Hendro_Junawarko_Searching.csproj.GenerateResource.Cache
