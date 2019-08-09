@@ -25,6 +25,6 @@ Email	: agus.mulyanto@teknokrat.ac.id
  
  <p align="center"><img src="Alpro.gif" ></p>	
  
- referensi :
+ referensi :<br>
  https://www.geeksforgeeks.org/sorting-algorithms/
  https://www.geeksforgeeks.org/searching-algorithms/
