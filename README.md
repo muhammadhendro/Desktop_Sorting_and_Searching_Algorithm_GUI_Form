@@ -23,5 +23,4 @@ Email	: agus.mulyanto@teknokrat.ac.id
  - Jump Search 
  
  
- 
-	
+ <p align="center"><img src="Alpro.gif" ></p>	
